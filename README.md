@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmet
 - 👀 I’m interested in developing great projects with Java and React ✨
-- 📫 How to reach me, please send e-mail ahmet.okay[at]outlook.com
+- 📫 If you interested feel free to send send e-mail ahmet.okay[at]outlook.com👋
 
 https://www.linkedin.com/in/ahmetokay/
 
